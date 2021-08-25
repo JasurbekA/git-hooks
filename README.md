@@ -2,7 +2,7 @@
 
 In this repo I will show how to integrate git hooks 
 1. Make sure you init git for your project folder
-2. create file (File name should speak for itself, pre-push, pre-commit ...) inside ```YOUR_PROJECT/.git/hooks```
+2. create file (File name should speak for itself, ex: ```pre-push```, ```pre-commit``` ...) inside ```YOUR_PROJECT/.git/hooks```
 3. Specify what you want to do before pushing your code to remote branch
 
 Here is the example (I wanted to run tests, but you can run other commands like checking code format using ktlint)
