@@ -1,7 +1,7 @@
 # git-hooks
 
 In this repo I will show how to integrate git hooks 
-1. Make sure you init git for your project folder
+1. Make sure you init git for your project folder if not then run ```git init``` inside your project folder
 2. create file (File name should speak for itself, ex: ```pre-push```, ```pre-commit``` ...) inside ```YOUR_PROJECT/.git/hooks```
 3. Specify what you want to do before pushing your code to remote branch
 
